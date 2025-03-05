@@ -10,6 +10,6 @@ You can [find my website here](https://tomgiddings.co.uk).
 - 😄 Pronouns: He/Him
 
 ## Current tech
-![Backend tech I'm working with: Node.js, AWS, Cloudflare, Serverless](https://img.shields.io/badge/Backend-Node.js%2C%20AWS%2C%20Cloudflare%2C%20Serverless-blue)
+![Backend tech I'm working with: Node.js, TypeScript, AWS](https://img.shields.io/badge/Backend-Node.js%2C%20Typescript%2C%20AWS-blue)
 ![Frontend tech I'm working with: React, NextJS, Tailwind](https://img.shields.io/badge/Frontend-React%2C%20NextJS%2C%20Tailwind-blueviolet)
 ![Data tech I'm working with: MongoDB, Azure Cosmos DB, CockroachDB](https://img.shields.io/badge/Data-MongoDB%2C%20Azure%20Cosmos%2C%20CockroachDB-critical)
