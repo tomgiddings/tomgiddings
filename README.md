@@ -1,10 +1,9 @@
-# Hi there 👋 I'm Tom, a Web Developer and Broadcast Engineer
+# Hi there 👋 I'm Tom, a Software and Broadcast Engineer
 
 You can [find my website here](https://tomgiddings.co.uk).
 
 ## More about me
-- 🔭 I’m currently working on [GoGeek](https://gogeek.uk) and [Safe Pair of Hands Technology](https://www.safepairofhands.co.uk) (in my spare time)
-- 🌱 I’m currently learning about Cloudflare products.
+- 🌱 I work with energy and green tech.
 - 👯 I’m looking to collaborate on projects for social good.
 - 💬 Ask me about food or fire! (I make a mean pizza)
 - 😄 Pronouns: He/Him
